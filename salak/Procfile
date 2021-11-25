@@ -1,0 +1,1 @@
+web: gunicorn salak.wsgi --log-file-
